@@ -1,5 +1,4 @@
 
-#encoding:utf-8
 print set('abcd')  # set(['a', 'c', 'b', 'd'])
 print set(['nice', 'to', 'meet', 'to'])
 firstSet = set([1, 2, 3])
